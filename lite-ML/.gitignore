@@ -1,0 +1,7 @@
+venv/*
+models/*
+downloaded_models/*
+models_21st/*
+nohup.out
+*.log
+*.lprof
