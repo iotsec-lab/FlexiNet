@@ -23,6 +23,6 @@ After completing the training and resource utilization steps, performance metric
 ### 5. Genetic Algorithm Optimization
 For multi-objective optimization, the `evolutionary_algorithm/genetic_algorithm/run_mlp.py` script employs a Genetic Algorithm to fine-tune the model's hyperparameters. The results of this optimization process are stored in `evolutionary_algorithm/genetic_algorithm/gen_ORIN.csv`.
 
-### 5. Simple Heuristic Algorithm Optimization
+### 6. Simple Heuristic Algorithm Optimization
 For multi-objective optimization, the `evolutionary_algorithm/heuristic/ILS_2.py` script employs a simple Heuristic Algorithm to fine-tune the model's hyperparameters.
 
